@@ -47,7 +47,7 @@ A simple and secure web application built with PHP and MySQL that includes user 
 
 Admin:
 - Email: admin@test.com
-- Password: password
+- Password: admin123
 
 ##  Screenshots
 
